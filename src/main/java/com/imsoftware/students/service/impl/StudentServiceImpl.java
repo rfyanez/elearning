@@ -38,9 +38,8 @@ public class StudentServiceImpl implements IStudentService {
 
 	@Override
 	public Collection<StudentDTO> findAllAndShowIfHaveAPopularSubject() {
-		// TODO Obtener la lista de todos los desarrolladores existentes en la BD e
-		// indicar si el desarrollador conoce o no el lenguaje de programacion mas
-		// popular registrado en la BD.
+		// TODO Obtener la lista de todos los estudiantes e indicar la materia más concurrida existentes en la BD e
+		// indicar si el estudiante cursa o no la materia más concurrida registrado en la BD.
 		return null;
 	}
 
